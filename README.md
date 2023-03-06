@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ans</h1>
-<h3 align="center">A tech, design and data enthusiasts from Pakistan.</h3>
+<h3 align="center">A tech, design and data enthusiast from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdanss&label=Profile%20views&color=0e75b6&style=flat" alt="mohdanss" /> </p>
 
