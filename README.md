@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ShoptoDoor (Online ordering System)](https://github.com/mohdanss/shoptodoor.git)
 
-- 🌱 I’m currently learning **Full Stack Web Development,**
+- 🌱 I’m currently learning **Full Stack Web & Mobile Development** and a bit of **Data Science** along the way.
 
 - 👯 I’m looking to collaborate on **Any Frontend Projects**
 
