@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdanss" alt="mohdanss" /></a> </p>
 
-- 🔭 I’m currently working on [ShoptoDoor (Online ordering System)](https://github.com/mohdanss/shoptodoor.git)
+- 🔭 I’m currently working on **WayFinder: A pet project to solve a real-world problem**
 
 - 🌱 I’m currently learning **Full Stack Web & Mobile Development** and a bit of **Data Science** along the way.
 
 - 👯 I’m looking to collaborate on **Any Frontend Projects**
 
-- 💬 Ask me about **react, django, problem solving**
+- 💬 Ask me about **React, Django, problem solving**
 
 - 📫 How to reach me **anstig3r@gmail.com**
 
