@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdanss" alt="mohdanss" /></a> </p>
 
-- 🔭 I’m currently working on **WayFinder: A pet project to solve a real-world problem x combination of path finding data structures.**
+- 🔭 I’m currently working as Co-Founder @innovaxel.
 
-- 🌱 I’m currently learning **Full Stack Engineering** and a bit of **Data Science** along the way.
-
-- 👯 I’m looking to collaborate on **Any Projects, spacially something open-source**
+- 👯 I’m looking to collaborate on **something open-source**
 
 - 📫 Reach me out at **mohd.ans.riaz@gmail.com**
 
