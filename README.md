@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as Co-Founder @innovaxel.
 
-- 👯 I’m looking to collaborate on **something open-source**
+- 👯 I’m looking to collaborate on **open-source projects and AI**
 
-- 📫 Reach me out at **mohd.ans.riaz@gmail.com**
+- 📫 Reach me out at **ans@innovaxel.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
